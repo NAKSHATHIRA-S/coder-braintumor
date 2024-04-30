@@ -1,4 +1,4 @@
-# coder-braintumor
+# Coder-braintumor
 ## Brain Tumor Classification
 This repository contains code for classifying whether a patient has a brain tumor based on the provided dataset from Kaggle. The dataset consists of images of brain scans categorized into two classes: tumor and healthy.
 
